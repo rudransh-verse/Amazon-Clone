@@ -5,6 +5,10 @@ This project replicates the basic layout and design of the Amazon website for le
 
 ---
 
+## Preview
+
+Live Demo: https://rudransh-verse.github.io/Amazon-Clone/amazon.htm
+
 ## ✨ Features
 - Header with logo, search bar, and navigation links  
 - Product sections displayed in a clean grid layout  
